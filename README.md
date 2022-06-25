@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melo3803&label=Profile%20views&color=0e75b6&style=flat" alt="melo3803" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melo3803" alt="melo3803" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melo3803&theme=onedark" alt="melo3803" /></a> </p>
 
 - 🔭 İşte şöyle bişey var buna bakıyom **MeloSystems**
 
