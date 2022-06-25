@@ -9,7 +9,7 @@
 
 - 🌱 Bide bunu öğrenmeye çalışıyom **Javascript/Python**
 
-- 📫 İşte mailim falan filan **melo@melosystems.gq**
+- 📫 İşte mailim falan filan **melo@buzasystems.ml**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
