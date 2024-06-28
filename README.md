@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melo3803" alt="melo3803" /></a> </p>
 
-- 🔭 şuan yapmayi deniyok **revomusicdjs14**
+- 🔭 şuan yapmayi deniyok **buzaOS**
 
 - 🌱 Şu an ogrenmek **java kotlin falan**
 
