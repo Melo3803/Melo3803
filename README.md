@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melo3803" alt="melo3803" /></a> </p>
 
-- 🔭 şuan yapmayi deniyok **buzaOS**
+- 🔭 şuan yapilan **buzaOS**
 
-- 🌱 Şu an ogrenmek **java kotlin falan**
-
-- 📫 Mail falan **melo@buzacik.space**
+- 📫 Mail falan **melo@buzacik.com.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
