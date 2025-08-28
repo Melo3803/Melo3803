@@ -6,9 +6,11 @@
 
 - 🔭 Working on **buzaOS**
 
+  <h3 align="left">Connect with me:</h3>
+
 - 📫 Mail **melo@buzacik.com.tr**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
